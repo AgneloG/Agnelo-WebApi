@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerWithWebApi.DataAccess</name>
+    </assembly>
+    <members>
+        <member name="P:SwaggerWithWebApi.DataAccess.Model.Employee.EmployeeID">
+            <summary>
+            Get Id of Employee
+            </summary>
+        </member>
+        <member name="P:SwaggerWithWebApi.DataAccess.Model.Employee.FirstName">
+            <summary>
+            Employee First name
+            </summary>
+        </member>
+        <member name="P:SwaggerWithWebApi.DataAccess.Model.Employee.LastName">
+            <summary>
+            Employee Last name
+            </summary>
+        </member>
+        <member name="P:SwaggerWithWebApi.DataAccess.Model.Employee.EmpCode">
+            <summary>
+            Employee Code
+            </summary>
+        </member>
+        <member name="P:SwaggerWithWebApi.DataAccess.Model.Employee.Position">
+            <summary>
+            Employee Designation
+            </summary>
+        </member>
+        <member name="P:SwaggerWithWebApi.DataAccess.Model.Employee.Office">
+            <summary>
+            Employee's Office name
+            </summary>
+        </member>
+    </members>
+</doc>
